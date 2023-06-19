@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/burhack/Desktop/openGl/ilkProje/build",
+  "command": "/usr/bin/g++  -I/home/burhack/Desktop/openGl/ilkProje/include -g -o CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o -c /home/burhack/Desktop/openGl/ilkProje/src/main.cpp",
+  "file": "/home/burhack/Desktop/openGl/ilkProje/src/main.cpp"
+},
+{
+  "directory": "/home/burhack/Desktop/openGl/ilkProje/build",
+  "command": "/usr/bin/gcc  -I/home/burhack/Desktop/openGl/ilkProje/include -g -o CMakeFiles/OpenGLilkProje.dir/src/glad.c.o -c /home/burhack/Desktop/openGl/ilkProje/src/glad.c",
+  "file": "/home/burhack/Desktop/openGl/ilkProje/src/glad.c"
+},
+{
+  "directory": "/home/burhack/Desktop/openGl/ilkProje/build",
+  "command": "/usr/bin/g++  -I/home/burhack/Desktop/openGl/ilkProje/include -g -o CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o -c /home/burhack/Desktop/openGl/ilkProje/src/shaderprogram.cpp",
+  "file": "/home/burhack/Desktop/openGl/ilkProje/src/shaderprogram.cpp"
+}
+]

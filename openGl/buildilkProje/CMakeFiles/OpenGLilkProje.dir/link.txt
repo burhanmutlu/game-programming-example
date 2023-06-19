@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o CMakeFiles/OpenGLilkProje.dir/src/glad.c.o CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o -o OpenGLilkProje  /usr/local/lib/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lX11 

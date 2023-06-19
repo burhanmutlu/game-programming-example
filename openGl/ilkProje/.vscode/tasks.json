@@ -1,0 +1,52 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "CMake",
+			"command": "cmake",
+			"options": {
+				"cwd": "${workspaceFolder}/../buildilkProje"
+			},
+			"args": [
+				"${workspaceFolder}"
+			],
+			"group": "build",
+			"dependsOn": [
+				"BuildKlasorOlustur"
+			],
+			"detail": "CMake template build task",
+			"problemMatcher": []
+		},
+		{
+			"type": "shell",
+			"label": "BuildKlasorOlustur",
+			"command": "mkdir",
+			"options": {
+				"cwd": "${workspaceFolder}/.."
+			},
+			"args": [
+				"-p",
+				"buildilkProje"
+			],
+			"detail": "Create build dir"
+		},
+		{
+			"type": "shell",
+			"label": "Make",
+			"command": "make",
+			"options": {
+				"cwd": "${workspaceFolder}/../buildilkProje"
+			},
+			"args": [
+				"-l"
+			],
+			"problemMatcher": [],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+
+		}
+	]
+}
