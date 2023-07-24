@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = 
 
-C_INCLUDES = -I/home/burhack/Desktop/openGl/ilkProje/include
+C_INCLUDES = -I/home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include
 
 C_FLAGS = 
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/burhack/Desktop/openGl/ilkProje/include
+CXX_INCLUDES = -I/home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include
 
 CXX_FLAGS = 
 

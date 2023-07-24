@@ -1,3 +1,3 @@
-/home/burhack/Desktop/openGl/buildilkProje/CMakeFiles/OpenGLilkProje.dir
-/home/burhack/Desktop/openGl/buildilkProje/CMakeFiles/edit_cache.dir
-/home/burhack/Desktop/openGl/buildilkProje/CMakeFiles/rebuild_cache.dir
+/home/burhack/Desktop/gitRepo/game-programming-example/openGl/buildilkProje/CMakeFiles/OpenGLilkProje.dir
+/home/burhack/Desktop/gitRepo/game-programming-example/openGl/buildilkProje/CMakeFiles/edit_cache.dir
+/home/burhack/Desktop/gitRepo/game-programming-example/openGl/buildilkProje/CMakeFiles/rebuild_cache.dir

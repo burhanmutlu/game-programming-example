@@ -3,6 +3,7 @@
 #include<iostream>
 #include<fstream>
 
+
 ShaderProgram::ShaderProgram()
 {
     m_ProgramId = glCreateProgram();
@@ -34,6 +35,21 @@ void ShaderProgram::link()
 void ShaderProgram::use()
 {
     glUseProgram(m_ProgramId);
+}
+
+void ShaderProgram::addUniform(const std::string& varName)
+{
+    m_UniformVars[varName] = glGetUniformLocation(m_ProgramId, varName.c_str());
+}
+
+void ShaderProgram::setFloat(const std::string& varName, float value)
+{
+    glUniform1f(m_UniformVars[varName], value);
+}
+
+void ShaderProgram::setVec3(const std::string& varName, const glm::vec3& value)
+{
+    glUniform3f(m_UniformVars[varName], value.x, value.y, value.z);
 }
 
 void ShaderProgram::attachShader(const char* fileName, unsigned int shaderType)

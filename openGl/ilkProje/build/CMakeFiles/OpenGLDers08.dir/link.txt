@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/OpenGLDers08.dir/src/glad.c.o CMakeFiles/OpenGLDers08.dir/src/main.cpp.o CMakeFiles/OpenGLDers08.dir/src/shaderprogram.cpp.o -o OpenGLDers08  /usr/local/lib/libglfw3.a -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lX11 

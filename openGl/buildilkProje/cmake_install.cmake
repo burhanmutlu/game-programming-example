@@ -1,4 +1,4 @@
-# Install script for directory: /home/burhack/Desktop/openGl/ilkProje
+# Install script for directory: /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/burhack/Desktop/openGl/buildilkProje/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/burhack/Desktop/gitRepo/game-programming-example/openGl/buildilkProje/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

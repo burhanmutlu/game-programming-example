@@ -1,7 +1,7 @@
 CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o: \
- /home/burhack/Desktop/openGl/ilkProje/src/shaderprogram.cpp \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/src/shaderprogram.cpp \
  /usr/include/stdc-predef.h \
- /home/burhack/Desktop/openGl/ilkProje/include/shaderprogram.hpp \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/shaderprogram.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -129,9 +129,33 @@ CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
- /usr/include/c++/11/bits/basic_string.tcc \
- /home/burhack/Desktop/openGl/ilkProje/include/glad/glad.h \
- /home/burhack/Desktop/openGl/ilkProje/include/KHR/khrplatform.h \
+ /usr/include/c++/11/bits/basic_string.tcc /usr/include/c++/11/map \
+ /usr/include/c++/11/bits/stl_tree.h \
+ /usr/include/c++/11/ext/aligned_buffer.h \
+ /usr/include/c++/11/bits/node_handle.h \
+ /usr/include/c++/11/bits/stl_map.h /usr/include/c++/11/tuple \
+ /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
+ /usr/include/c++/11/array /usr/include/c++/11/bits/uses_allocator.h \
+ /usr/include/c++/11/bits/invoke.h \
+ /usr/include/c++/11/bits/stl_multimap.h \
+ /usr/include/c++/11/bits/erase_if.h /usr/local/include/glm/vec3.hpp \
+ /usr/local/include/glm/detail/setup.hpp /usr/include/c++/11/cassert \
+ /usr/include/assert.h /usr/include/c++/11/cstddef \
+ /usr/local/include/glm/simd/platform.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h \
+ /usr/include/c++/11/stdlib.h /usr/local/include/glm/detail/type_vec3.hpp \
+ /usr/local/include/glm/detail/type_vec.hpp \
+ /usr/local/include/glm/detail/qualifier.hpp \
+ /usr/local/include/glm/detail/setup.hpp \
+ /usr/local/include/glm/detail/type_int.hpp \
+ /usr/local/include/glm/detail/compute_vector_relational.hpp \
+ /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
+ /usr/include/c++/11/limits /usr/local/include/glm/detail/type_vec3.inl \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/glad/glad.h \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/KHR/khrplatform.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \

@@ -1,3 +1,0 @@
-/home/burhack/Desktop/openGl/ilkProje/build/CMakeFiles/OpenGLilkProje.dir
-/home/burhack/Desktop/openGl/ilkProje/build/CMakeFiles/edit_cache.dir
-/home/burhack/Desktop/openGl/ilkProje/build/CMakeFiles/rebuild_cache.dir

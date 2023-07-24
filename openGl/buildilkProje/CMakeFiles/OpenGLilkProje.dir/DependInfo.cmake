@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/burhack/Desktop/openGl/ilkProje/src/glad.c" "CMakeFiles/OpenGLilkProje.dir/src/glad.c.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/glad.c.o.d"
-  "/home/burhack/Desktop/openGl/ilkProje/src/main.cpp" "CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o.d"
-  "/home/burhack/Desktop/openGl/ilkProje/src/shaderprogram.cpp" "CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o.d"
+  "/home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/src/glad.c" "CMakeFiles/OpenGLilkProje.dir/src/glad.c.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/glad.c.o.d"
+  "/home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/src/main.cpp" "CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o.d"
+  "/home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/src/shaderprogram.cpp" "CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o" "gcc" "CMakeFiles/OpenGLilkProje.dir/src/shaderprogram.cpp.o.d"
   )
 
 # Targets to which this target links.

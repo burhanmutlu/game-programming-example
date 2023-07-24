@@ -1,0 +1,4 @@
+glm matematik kütüphanesi
+glfw pencere ekranı için
+glud fonksiyonlar için 
+cmake derleme için

@@ -1,5 +1,5 @@
 CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o: \
- /home/burhack/Desktop/openGl/ilkProje/src/main.cpp \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -146,7 +146,31 @@ CMakeFiles/OpenGLilkProje.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/burhack/Desktop/openGl/ilkProje/include/glad/glad.h \
- /home/burhack/Desktop/openGl/ilkProje/include/KHR/khrplatform.h \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/glad/glad.h \
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/KHR/khrplatform.h \
  /usr/local/include/GLFW/glfw3.h \
- /home/burhack/Desktop/openGl/ilkProje/include/shaderprogram.hpp
+ /home/burhack/Desktop/gitRepo/game-programming-example/openGl/ilkProje/include/shaderprogram.hpp \
+ /usr/include/c++/11/map /usr/include/c++/11/bits/stl_tree.h \
+ /usr/include/c++/11/ext/aligned_buffer.h \
+ /usr/include/c++/11/bits/node_handle.h \
+ /usr/include/c++/11/bits/stl_map.h /usr/include/c++/11/tuple \
+ /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
+ /usr/include/c++/11/array /usr/include/c++/11/bits/uses_allocator.h \
+ /usr/include/c++/11/bits/invoke.h \
+ /usr/include/c++/11/bits/stl_multimap.h \
+ /usr/include/c++/11/bits/erase_if.h /usr/local/include/glm/vec3.hpp \
+ /usr/local/include/glm/detail/setup.hpp /usr/include/c++/11/cassert \
+ /usr/include/assert.h /usr/include/c++/11/cstddef \
+ /usr/local/include/glm/simd/platform.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h \
+ /usr/include/c++/11/stdlib.h /usr/local/include/glm/detail/type_vec3.hpp \
+ /usr/local/include/glm/detail/type_vec.hpp \
+ /usr/local/include/glm/detail/qualifier.hpp \
+ /usr/local/include/glm/detail/setup.hpp \
+ /usr/local/include/glm/detail/type_int.hpp \
+ /usr/local/include/glm/detail/compute_vector_relational.hpp \
+ /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
+ /usr/include/c++/11/limits /usr/local/include/glm/detail/type_vec3.inl
