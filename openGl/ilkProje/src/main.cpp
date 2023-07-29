@@ -16,6 +16,9 @@ birden fazla şeklin...videosunda kaldım.
 */
 float length = 0.08;
 glm::vec3 position = glm::vec3(1.0f, 0.0f, 0.0f);
+glm::vec4 color1 = glm::vec4(1.0f, 0.0f, 0.0f, 1.0f);
+glm::vec4 color2 = glm::vec4(1.0f, 1.0f, 0.0f, 1.0f);
+glm::vec4 color3 = glm::vec4(1.0f, 0.0f, 1.0f, 1.0f);
 
 // noktalara ait koordinat bilgileri.
 float vertices[] = {

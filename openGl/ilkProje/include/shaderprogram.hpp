@@ -1,6 +1,8 @@
 #include<string>
 #include<map>
 #include<glm/vec3.hpp>
+#include<glm/vec4.hpp>
+
 #ifndef SHADERPROGRAM_HPP
 #define SHADERPROGRAM_HPP
 
@@ -20,6 +22,8 @@ class ShaderProgram
         void setFloat(const std::string& varName, float value);
 
         void setVec3(const std::string& varName, const glm::vec3& value);
+
+        void setVec4(const std::string& varName, const glm::vec4& value);
     
     private:
         unsigned int m_ProgramId;
